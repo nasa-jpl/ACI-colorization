@@ -1,4 +1,5 @@
-![socialpreview](https://github.jpl.nasa.gov/storage/user/10071/files/343f3894-bbb2-49a2-83c9-11aa073672bf)
+![socialpreview](https://user-images.githubusercontent.com/131310922/236954633-fe29158a-050f-4664-8f56-f5aa2cb5ebd5.png)
+
 
 
 # ACI-colorization
